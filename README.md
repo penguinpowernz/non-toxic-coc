@@ -1,7 +1,5 @@
 # Non-Toxic Code of Conduct
 
-## Preamble
-
 Our community is built on the principles of meritocracy, where contributions are valued based on their quality, relevance, and impact. We strive to create an inclusive environment where individuals can collaborate, learn, and grow without the influence of personal biases, affiliations, or identities.
 
 ## Core Principles
