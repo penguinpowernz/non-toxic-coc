@@ -14,7 +14,7 @@ Our community is built on the principles of meritocracy, where contributions are
 
 ## Guidelines for Contributors
 
-1. **Avoid self-identification**: Contributors are discouraged from displaying their personal affiliations, identities, or biases in their profile pictures, usernames, or signatures.
+1. **Avoid self-identification**: Contributors are discouraged from displaying their personal affiliations, identities, or biases in their profile pictures, usernames, or signatures.  These include but are not limited to; sexual orientation or proclivities, gender identity, political affiliation or religion.
 
 1. **Focused scrutiny**: Contributors who outwardly advertise their personal affiliations, identities, or biases may be subject to more focused scrutiny in non-technical conflicts, as their actions may be perceived as promoting a divisive or hostile environment.
 
