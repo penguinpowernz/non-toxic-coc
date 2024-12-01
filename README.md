@@ -18,7 +18,7 @@ Our community is built on the principles of meritocracy, where contributions are
 
 1. **Toxic Behavior**: Assuming malicious intent, making unfounded accusations, or attempting to undermine the community's core values, core contributors, or this Code of Conduct will not be tolerated.
 
-1. **Toxic Affiliation**: Affiliation with groups or individuals that promote or engage in toxic behaviour such as harassment, conspiracy against this community, conspiracy against this Code of Conduct or the conspiracy against the spirit of this Code of Conduct may result in removal.
+1. **Toxic Affiliation**: Affiliation with groups or individuals that promote or engage in toxic behaviour such as harassment, conspiracy against this community, conspiracy against this Code of Conduct or conspiracy against the spirit of this Code of Conduct may result in removal.
 
 ## Consequences of Non-Compliance
 
