@@ -16,12 +16,14 @@ Our community is built on the principles of meritocracy, where contributions are
 
 1. **Focused scrutiny**: Contributors who outwardly advertise their personal affiliations, identities, or biases may be subject to more focused scrutiny in non-technical conflicts, as their actions may be perceived as promoting a divisive or hostile environment.
 
+1. **Toxic Behavior**: Assuming malicious intent, making unfounded accusations, or attempting to undermine the community's core values, core contributors, or this Code of Conduct will not be tolerated.
+
 ## Consequences of Non-Compliance
 
 Failure to adhere to this code of conduct may result in warnings, temporary or permanent bans, or other measures deemed necessary to maintain a neutral and respectful environment.
 
 ## Amendments and Updates
 
-This code of conduct may be updated or amended as necessary to ensure the community remains a welcoming and inclusive space for all contributors.
+This code of conduct is static, and cannot be changed.
 
 By participating in our community, you acknowledge that you have read, understood, and will adhere to this Non-Toxic Code of Conduct.
